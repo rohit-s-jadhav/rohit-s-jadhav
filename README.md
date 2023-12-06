@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit Jadhav</h1>
-<h3 align="center">A passionate Full Stack developer from Mumbai,India. Now based in Dublin, Ireland.</h3>
+<h3 align="center">A passionate Full Stack developer from Mumbai, India. Now based in Dublin, Ireland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-s-jadhav&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-s-jadhav" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit-s-jadhav" alt="rohit-s-jadhav" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, Spring Frameworks, Angular and React**
+- 🌱 I’m currently learning **AWS, Spring Frameworks, Angular, and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohit-s-jadhav](https://github.com/rohit-s-jadhav)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/rohit-s-jadhav/](https://www.linkedin.com/in/rohit-s-jadhav/)
 
-- ⚡ Fun fact **I think Spider-BatMan. I am a nerd and I am not billionaire(yet :P)**
+- ⚡ Fun fact **I think Spider-BatMan. I am a nerd and I am not a billionaire (yet :P)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
