@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/rohit-s-jadhav/](https://www.linkedin.com/in/rohit-s-jadhav/)
 
-- ⚡ Fun fact **I think Spider-BatMan. I am a nerd and I am not a billionaire (yet :P)**
+- ⚡ Fun fact **I think I'm Spider-BatMan. I am a nerd and I am not a billionaire (yet :P)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
